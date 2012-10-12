@@ -2,7 +2,7 @@
 ----------------
 
 =================
-I an a geek, a hacker
+I am a geek, a hacker
 
 寂寞空虛覺得冷想要有人陪
 
