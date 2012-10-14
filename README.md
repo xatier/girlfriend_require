@@ -1,15 +1,13 @@
 我需要一個女朋友
 ----------------
-
-=================
-I am a geek, a hacker
+***
+### I am a geek, a hacker ###
 
 寂寞空虛覺得冷想要有人陪
 
 inspired by <https://github.com/norinori2222/boyfriend_require>
 
-女友條件
----------
+## 女友條件 ##
 不煙、酒可、無不良嗜好
 
 個性開朗
@@ -20,8 +18,7 @@ inspired by <https://github.com/norinori2222/boyfriend_require>
 
 動畫漫畫愛好者(opt.)
 
-本人自介
---------
+## 本人自介 ##
 年齡. 20
 
 性別. 男
@@ -40,9 +37,9 @@ inspired by <https://github.com/norinori2222/boyfriend_require>
 
 語言. 中文 / 台語 / Poor English
 
-      C / Perl / Python / awk / bash
+>C / Perl / Python / awk / bash
 
-      日本語 / C++ / Functional Programming 學習中
+>日本語 / C++ / Functional Programming 學習中
 
 DB.   plain text file
 
