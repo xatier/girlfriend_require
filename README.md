@@ -10,8 +10,11 @@
 不想一個人獨自承受偌大的壓力
 
 Feel empty, alone, and cold,
+
 want somebody who can stay with me.
+
 I live in HsinChu alone, hope a warm hug.
+
 I don't to take all the pressure myself.
 
 
@@ -34,6 +37,7 @@ Inspired by <https://github.com/norinori2222/boyfriend_require>
 - 動畫漫畫愛好者為佳
 - 巨乳 (opt.)
 - 和我一樣喜歡ミク (opt.)
+
 
 
 
@@ -64,6 +68,7 @@ Inspired by <https://github.com/norinori2222/boyfriend_require>
 - 身高. 170
 - 體重. 是個胖子
 
+
 - Age: 20
 - Sex: Male
 - Height: 170 (cm)
@@ -85,6 +90,7 @@ Inspired by <https://github.com/norinori2222/boyfriend_require>
 - 偶而會突然陷入沒有動力的低潮狀態
 - 有責任感
 - 對於信用非常看重
+
 
 
 - Gentle
