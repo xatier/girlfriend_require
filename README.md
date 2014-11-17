@@ -18,7 +18,7 @@ I don't to take all the pressure myself.
 
 
 
-Inspired by <https://github.com/norinori2222/boyfriend_require>
+Inspired by <https://github.com/norinori2222/boyfriend_require> (404ed)
 
 ## 女友條件 ##
 
@@ -59,13 +59,13 @@ Inspired by <https://github.com/norinori2222/boyfriend_require>
 ## 本人簡介 (personal introduction) ##
 ### 基本資料 ###
 
-- 年齡. 20
+- 年齡. 22
 - 性別. 男
 - 身高. 170
-- 體重. 是個胖子
+- 體重. 是個胖子 很胖
 
 
-- Age: 20
+- Age: 22
 - Sex: Male
 - Height: 170 (cm)
 - Weight: Chubby
@@ -109,7 +109,7 @@ Inspired by <https://github.com/norinori2222/boyfriend_require>
 ### 職業 ###
 
 - 廢物大學生、工讀生、死宅
-- college student, part timer, otaku
+- college student, part timer, Otaku
 
 ### 休閒 ###
 
@@ -120,7 +120,7 @@ Inspired by <https://github.com/norinori2222/boyfriend_require>
 
 - 中文 / 台語 / English
 - C / Perl / Python / awk / bash
-- learning 日本語 / C++ / Functional Programming (Haskell)
+- learning 日本語
 
 ### others ###
 
@@ -132,3 +132,9 @@ OS.
 Editor.
 
 - vim / emacs
+
+Keyboard.
+
+- Filco Ninja Majestouch-2 104 keys, Blue switch (home)
+- Filco Ninja Majestouch-2 Tenkeyless 87 keys, Blue switch (dorm)
+- Filco Minila 67 keys, Brown switch (outdoors)
