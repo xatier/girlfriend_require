@@ -5,12 +5,12 @@
 
 寂寞空虛覺得冷需要有人陪
 
-一個人在新竹，一個人獨自承受偌大的壓力
+一個人在台中，一個人獨自承受偌大的壓力
 
 想找個溫暖的懷裡可以讓我安心的窩著
 
 
-I live in HsinChu alone, hope a warm hug.
+I live in Taichung alone, hope a warm hug.
 
 I want somebody who can stay with me and make me relieved.
 
@@ -91,11 +91,11 @@ Inspired by <https://github.com/norinori2222/boyfriend_require> (404ed)
 
 - Gentle
 - Geeky
-- Considerate
+- Considerable
 - Sometimes speak in Klingon
 - Chatters sometimes
 - A little bit porno
-- Curiosity
+- Curious
 - Pessimistic
 - Will lose my energy sometimes
 - Responsible
@@ -119,7 +119,7 @@ Inspired by <https://github.com/norinori2222/boyfriend_require> (404ed)
 ### 語言 ###
 
 - 中文 / 台語 / English
-- C / Perl / Python / awk / bash
+- C / Perl / Python / bash
 - learning 日本語
 
 ### others ###
@@ -136,5 +136,5 @@ Editor.
 Keyboard.
 
 - Filco Ninja Majestouch-2 104 keys, Blue switch (home)
-- Filco Ninja Majestouch-2 Tenkeyless 87 keys, Blue switch (dorm)
+- Filco Ninja Majestouch-2 Tenkeyless 87 keys, Blue switch (home)
 - Filco Minila 67 keys, Brown switch (outdoors)
