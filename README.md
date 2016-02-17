@@ -142,3 +142,12 @@ Keyboard.
 - Filco Ninja Majestouch-2 104 keys, Blue switch (home)
 - Filco Ninja Majestouch-2 Tenkeyless 87 keys, Blue switch (home)
 - Filco Minila 67 keys, Brown switch (outdoors)
+
+
+Images
+
+- credit: joyqul
+![img1](https://i.imgur.com/3QRtgn7.jpg)
+
+- credit: 13sheep
+![img2](http://i.imgur.com/rBt2quQ.jpg)
